@@ -1,8 +1,8 @@
-# :sunflower:  Guilherme Machado Pires
+<!-- # :sunflower:  Guilherme Machado Pires
 
 ### HEY Everyone 👋 Welcome to my profile!
 
-I'm a professional with 2 year
+I'm a professional with 2 years expirience at Data Engineer/Analysis field
 
 - :office_worker: I’m currently working as a Data Analyst at [Ipnet Growth Partner](https://www.linkedin.com/company/ipnet/mycompany/verification/)
 - :computer: Database Knowledges: - MySQL, T-SQL, PostgreSQL, Data Modelling and Data Structures 
@@ -19,6 +19,7 @@ I'm a professional with 2 year
 - 🌱 I’m also studying to Azure Path Certificates and Google Path Certificates.
 - 🥇 Airflow Astronomer Certified
 - 🥇 Google Cloud Digital Leader Certified
+- 🥇 Green Belt Certified
 - Studying to Google Cloud Data Engineer
 
 ---
@@ -31,7 +32,7 @@ I'm a professional with 2 year
   
  <a href="http://www.github.com/Gui-mp8"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gui-mp8&stroke=ffffff&background=171717&ring=green&fire=orange&currStreakNum=ffffff&currStreakLabel=green&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
-
+ -->
 
 ---
 
@@ -68,3 +69,34 @@ I'm a professional with 2 year
   
 
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guilherme Machado Pires
+===============================================================================================================================================
+
+Data Engineer
+-------------
+
+I've been into data world has 2 years.
+
+* 🌍  I'm based in Rio de Janeiro/Brasil
+* ✉️  You can contact me at [gui.mp8@gmail.com](mailto:gui.mp8@gmail.com)
+* 🧠  I'm learning POO with Python, PySpark and Azure
+* 🤝  I'm open to collaborating on Data Engenering projects
+* ⚡  I'm secreatly Batman, i mean..., you never saw me and him at the same please.
+
+### Skills
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Gui-mp8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/guilherme-pires-5353811aa/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@gui.mp8" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+
+<!-- <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Gui-mp8"><img src="https://github-readme-stats.vercel.app/api?username=Gui-mp8&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gui-mp8's GitHub stats" /></a> -->
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Gui-mp8/gupy_jobs_email_alert" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gui-mp8&repo=gupy_jobs_email_alert&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Gui-mp8/emplacamentos" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gui-mp8&repo=emplacamentos&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
