@@ -22,8 +22,12 @@ I'm a professional with 2 year
 - Studying to Google Cloud Data Engineer
 
 ---
+## Socials
+<a href="https://www.github.com/Gui-mp8" target="_blank" rel="noopener noreferrer"><img src="./logos/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
+<a href="https://www.linkedin.com/in/guilherme-pires-5353811aa/" target="_blank" rel="noopener noreferrer"><img src="./logos/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=Gui-mp8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Gui-mp8)
+
+[![Github Status](https://github-readme-stats.vercel.app/api?username=Gui-mp8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Gui-mp8)
   
  <a href="http://www.github.com/Gui-mp8"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gui-mp8&stroke=ffffff&background=171717&ring=green&fire=orange&currStreakNum=ffffff&currStreakLabel=green&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
   
@@ -31,9 +35,6 @@ I'm a professional with 2 year
 
 ---
 
-## Socials
-<a href="https://www.github.com/Gui-mp8" target="_blank" rel="noopener noreferrer"><img src="./logos/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
-<a href="https://www.linkedin.com/in/guilherme-pires-5353811aa/" target="_blank" rel="noopener noreferrer"><img src="./logos/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
 
 <!-- ## Skills -->
 
