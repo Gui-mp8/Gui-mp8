@@ -2,7 +2,7 @@
 
 ### HEY Everyone 👋 Welcome to my profile!
 
-I'm Guilherme, a Data Engineer, in love with tech and data.
+I'm a professional with 2 year
 
 - :office_worker: I’m currently working as a Data Analyst at [Ipnet Growth Partner](https://www.linkedin.com/company/ipnet/mycompany/verification/)
 - :computer: Database Knowledges: - MySQL, T-SQL, PostgreSQL, Data Modelling and Data Structures 
@@ -35,9 +35,9 @@ I'm Guilherme, a Data Engineer, in love with tech and data.
 <a href="https://www.github.com/Gui-mp8" target="_blank" rel="noopener noreferrer"><img src="./logos/github.png" alt="github" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
 <a href="https://www.linkedin.com/in/guilherme-pires-5353811aa/" target="_blank" rel="noopener noreferrer"><img src="./logos/linkedin.png" alt="linkedin" style="vertical-align:top; margin:4px; height:40px; width:40px"></a>
 
-## Skills
+<!-- ## Skills -->
 
-<div>
+<!-- <div>
   
 ### Data Engineering Tools
 <img src="./logos/python.png" alt="python" style="vertical-align:top; margin:4px; height:40px; width:40px">
@@ -63,7 +63,7 @@ I'm Guilherme, a Data Engineer, in love with tech and data.
 <img src="./logos/linux.png" alt="linux" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <img src="./logos/gitlab.png" alt="gitlab" style="vertical-align:top; margin:4px; height:40px; width:40px">
 <br>
-</div>
+</div> -->
   
 
 
