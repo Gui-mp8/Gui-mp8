@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 -------------
 
-I've been into data world has 2 years.
+I've been into data world has more theb 3 years.
 
 * 🌍  I'm based in Rio de Janeiro/Brasil
 * ✉️  You can contact me at [gui.mp8@gmail.com](mailto:gui.mp8@gmail.com)
-* 🧠  I'm learning POO with Python, PySpark and Azure
+* 🧠  I'm focusing on only GCO projects
 * 🤝  I'm open to collaborating on Data Engenering projects
-* ⚡  I'm secreatly Batman, i mean..., you never saw me and him at the same please.
+* ⚡  I'm secreatly Batman, i mean..., you never saw me and him at the same place.
 
 ### Skills
 
