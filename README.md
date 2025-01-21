@@ -8,7 +8,7 @@ I've been into data world has more theb 3 years.
 
 * 🌍  I'm based in Rio de Janeiro/Brasil
 * ✉️  You can contact me at [gui.mp8@gmail.com](mailto:gui.mp8@gmail.com)
-* 🧠  I'm focusing on only GCO projects
+* 🧠  I'm focusing on only GCP projects
 * 🤝  I'm open to collaborating on Data Engenering projects
 * ⚡  I'm secreatly Batman, i mean..., you never saw me and him at the same place.
 
